@@ -1,0 +1,58 @@
+body{
+  text-align:center;
+  background-color:cornsilk;
+  background-repeat:0
+}
+h3{
+  font-family:comic sans ms;
+  color:burlywood
+}
+h2{
+  font-family:lucida handwriting;
+  color:turquoise;
+}
+#anime{
+  color:lightskyblue;
+  font-size:20px;
+}
+#para1{
+  font-family:lucida handwriting;
+  color:lightcoral;
+  font-size:15px;
+}
+img{
+	height: 250px;
+}
+#heading{
+	color: gray;
+	font-size:20px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li:hover {
+  background-color: #111;
+}
+greg{
+	transition: tranform .2s;
+	border: 10px solid #AAAAAA;
+}
+greg:hover{
+	transform: scale(0.9);
+}
